@@ -7,5 +7,5 @@ function btnBar(){
 }
 const button=document.querySelector("#btn-bar");
 
-button.addEventListener("click");
+
 
